@@ -2,9 +2,30 @@
 <html>
 	<head>
 		<Title>This is not displayed to the user</Title>
+		<script> <language+"JavaScript">
+			...
+		</script>
+		<style type="text/css" rel="stylesheet">
+			...
+		</style>
+		<meta title="author" content="Ricardo Aldana Salas">
+		<meta title="date" content="Febraury 26, 2020">
+		<meta title="Exam" content="Pat Miller">
 	</head>
 	<body>
-		<h1> First Lelver Header</h1>
+		<a name="top" id="top"/>
+		<h1>Quantico HTML LAb1</h1>
+		<h1>Contents</h1>
+			<a href="#header"> Go to the headers and paragraph</a><br />
+			<a href="#list"> Go to list</a><br />
+			<a href="#table"> Go to table</a><br />
+			<a href="#form"> Go to form</a><br />
+			<a href="http://bbc.com" target="new">BBC</a><br />
+			<a href="http://cnn.com" target="new">CNN</a><br />
+		<hr />
+		
+		<a name="header" id ="header" />
+		
 		<h2> Paragraph Illustration</h2>
 		<p> This is a paragraph</p>
 		<hr />
@@ -14,6 +35,8 @@
 		skldfjdasl;jfdals;jflak<b><i>sdjjfalsjfl</b></i>as;djfdlksajflkasdsdjfl;adsjflkadsjl;ksdajfl;
 		</p>
 		
+		<a href="#top">Go to Top</a>
+		<a name="List" id ="list" />
 		<h2>List</h2>
 		
 		<ol>
@@ -43,5 +66,131 @@
 			<dt>M1911</dt>
 			<dd>45 cal</dd>
 		</dl>
+		
+		<a href="#top">Go to Top</a>
+		<a name="Table" id ="Table" />
+		
+		<table>
+		<h3>Simple Table</h3>
+		<table rules="all">
+		
+			<tr>
+				<th>Breakfast</th>
+				<th>Lunch</th>
+				<th>Supper</th>
+			</tr>
+			<tr>
+				<td>Coffee</td>
+				<td>Fake Chicken</td>
+				<td>chicken wings</td>
+			</tr>
+			<tr>
+				<td>Orange</td>
+				<td>tofu</td>
+				<td>celery</td>
+			</tr>
+		</table>
+		
+		
+		<br /><br /><hr /><br /><br />
+		<table rules="all">
+		<caption> Music Database</caption>
+			<tr>
+				<th>Title</th>
+				<th>Artist</th>
+				<th>Album</th>
+				<th>Release Date</th>
+			</tr>
+			<tr>
+				<th colspan="4">R &amp; B</td>
+			</tr>
+			<tr>
+				<td>Confession</td>
+				<td>Usher</td>
+				<td>Confessions</td>
+				<td>2004</td>
+			</tr>
+			<tr>
+				<td>Sweet Momma</td>
+				<td>Bob Marley</td>
+				<td>My Mommy</td>
+				<td>2020</td>
+			</tr>
+			<tr>
+				<td>Baby</td>
+				<td>Justin Beiber</td>
+				<td>My envirionment</td>
+				<td>2009</td>
+			</tr>
+			
+			<tr>
+				<th colspan="4">Country</td>
+			</tr>
+			<tr>
+				<td>Hound Dog</td>
+				<td>Elvis Pressley</td>
+				<td>N/A</td>
+				<td>1956</td>
+			</tr>
+			<tr>
+				<td>Speachless</td>
+				<td>Dan &amp; Shay</td>
+				<td>IDK</td>
+				<td>2018</td>
+			</tr>
+			<tr>
+				<td>Its 5 aclock somewhere</td>
+				<td>Allen Jackson</td>
+				<td></td>
+				<td>2004</td>
+			</tr>
+			
+			
+		</table>
+		
+		<a href="#top">Go to Top</a>
+		<a name="form" id=form />
+		<h2>Forms</h2>
+		
+		<form method="get" action="">
+			UserName: <input type="text" /><br />
+			Password: <input type="Password" /> <br />
+			<hr />
+			Submit: <input type="submit" /><br />
+			
+			
+			<h3>My Pizza</h3>
+			<input type="checkbox" name+"myPiza" value="pineapple" />
+			Pineapple
+			<input type="checkbox" name="myPiza" value="bananna" />
+			Banana
+			<input type="checkbox" name="mypizza" value="onion" />
+			Onion
+			<input type="checkbox" name="mypizza" value="mushroom" />
+			Magic Mushroom
+			<input type="checkbox" name="myPiza" value="anchovie" />
+			
+			<br /><br />
+			
+			<input type="radio" name="sex" value="male"checked="checked" />Male
+			<input type="radio" name="sex" value="Female" />Female
+			<input type="radio" name="sex" value="I dont know" />Other
+			
+			<br /><br />
+			<br /><br />
+			
+			<select name="yourpizza" size="3" multple="multiple">
+				<option value="bacon">Bacon</option>
+					<option value="Jalapeno">Jalapeno</option>
+						<option value="BBQ chicken">BBQ chicken</option>
+							<option value="bacon">Bacon</option>
+								<option value="Extra cheese">Extra cheese</option>
+			</select>
+			
+			<textarea rows="6" cols="40" name="Comments" value="Enter comments"id="comments"
+			onfocus="comments.values='';">
+			Enter comments here
+			</textarea>
+		</form>
 	</body>
 </html>
