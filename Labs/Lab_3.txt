@@ -1,0 +1,91 @@
+/*
+Author: Ricardo Aldana Salas
+Name:mystyles
+Date: March5,2020
+*/
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css"
+</head>
+<body>
+
+<h1>This is the header H1 Spot </h1>
+<p style="fount-family: monospace">This is still a bunch of words needed to fill in the role</p> 
+
+<h2> The US coronavirus death toll is rising and the CDC says communities should start thinking about ways to stop its spread</h2>
+<div style="font-family: Cursive;">"As more areas see community spread, local communities may start employing tools that encourage social distancing," Dr. Nancy Messonnier, the director of<span style="font-weight: 800"> CDC's National Center</span> for Immunization and Respiratory Diseases, said in a Tuesday news conference. "The goal of social distancing is to limit exposure by reducing face-to-face contact and preventing spread among people in community settings."
+There are now 126 coronavirus cases across 13 states. Nine people have died -- all in Washington state and eight from the same county. Five had ties to Life Care Center, a long-term nursing home in a Seattle suburb. At least 50 residents and staff members of the center were experiencing symptoms and were tested for the virus, King County health officer Jeffrey Duchin said Monday.
+<p><span style="color:blue">blue</span> eyes.</p>
+</div>
+
+
+<h2>Elizabeth Warren suffers embarrassing defeat in home state of Massachusetts</h2>
+
+<p style="font-family: Cursive;">Sen. Elizabeth Warren has lost her home state of Massachusetts to Joe Biden, a jarring and perhaps final insult to her presidential campaign on another disappointing primary night.The defeat will present new and immediate questions for Warren as she decides whether to continue her campaign. With 18 states having voted by Tuesday, Warren has yet to register a win or top-two finish. Over the coming days, many on the left are likely to call for her to leave the race, hoping that her departure might boost Sen. Bernie Sanders of neighboring Vermont, her fellow progressive.</p>
+
+<h2>Elizabeth Warren suffers embarrassing defeat in home state of Massachusetts</h2>
+
+<p style="font-family: fantasy;">Sen. Elizabeth Warren has lost her home state of Massachusetts to Joe Biden, a jarring and perhaps final insult to her presidential campaign on another disappointing primary night.The defeat will present new and immediate questions for Warren as she decides whether to continue her campaign. With 18 states having voted by Tuesday, Warren has yet to register a win or top-two finish. Over the coming days, many on the left are likely to call for her to leave the race, hoping that her departure might boost Sen. Bernie Sanders of neighboring Vermont, her fellow progressive.</p> 
+</body>
+
+
+
+
+<h2>This is a header</h2>
+class
+<body>click me </body>
+
+</html>
+
+
+
+
+body {
+  background-color: darkblue
+  ;
+}
+
+h1 {
+  color: blue;
+  margin-left: 20px;
+   background-color: green;
+  font-family: serif;
+}
+
+div{
+	border-style: ridge;
+	border-width: 15px;
+	border-color: red;
+	border-left-style: solid;
+	border-radius: 10px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+  background-color: green;
+  font-family: serif;
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+.buttonoff
+{
+	border-style: outset;
+	border-width: 15px;
+	border-color: #32CD32;
+	border-left-style: solid;
+	border-radius: 10px;	
+	width: 96px;
+}
+.buttonon
+{
+	border-style: inset;
+	border-width: 5px;
+	border-color: grey;
+	border-left-style: solid;
+	border-radius: 20px;	
+}
