@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\bin\Debug\netcoreapp3.1\Quiz_9.exe
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\bin\Debug\netcoreapp3.1\Quiz_9.deps.json
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\bin\Debug\netcoreapp3.1\Quiz_9.runtimeconfig.json
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\bin\Debug\netcoreapp3.1\Quiz_9.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\bin\Debug\netcoreapp3.1\Quiz_9.dll
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\bin\Debug\netcoreapp3.1\Quiz_9.pdb
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\obj\Debug\netcoreapp3.1\Quiz_9.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\obj\Debug\netcoreapp3.1\Quiz_9.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\obj\Debug\netcoreapp3.1\Quiz_9.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\obj\Debug\netcoreapp3.1\Quiz_9.dll
+C:\Users\Admin\Desktop\ISTA322\Quiz\Quiz_9\Quiz_9\obj\Debug\netcoreapp3.1\Quiz_9.pdb

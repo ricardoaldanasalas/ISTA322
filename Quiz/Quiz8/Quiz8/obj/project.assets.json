@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ISTA322\\Quiz8\\Quiz8\\Quiz8.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ISTA322\\Quiz\\Quiz8\\Quiz8\\Quiz8.csproj",
       "projectName": "Quiz8",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\ISTA322\\Quiz8\\Quiz8\\Quiz8.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\ISTA322\\Quiz\\Quiz8\\Quiz8\\Quiz8.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\ISTA322\\Quiz8\\Quiz8\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\ISTA322\\Quiz\\Quiz8\\Quiz8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
