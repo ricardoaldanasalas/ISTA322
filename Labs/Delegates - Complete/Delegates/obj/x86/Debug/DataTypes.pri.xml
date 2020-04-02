@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="DataTypes" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="DataTypes">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="DataTypes.rd.xml" uri="ms-resource://DataTypes/Files/DataTypes/Properties/DataTypes.rd.xml">
+						<Candidate type="Path">
+							<Value>DataTypes\Properties\DataTypes.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

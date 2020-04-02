@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="CheckoutService" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="CheckoutService">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="CheckoutService.rd.xml" uri="ms-resource://CheckoutService/Files/CheckoutService/Properties/CheckoutService.rd.xml">
+						<Candidate type="Path">
+							<Value>CheckoutService\Properties\CheckoutService.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DataTypes">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="DataTypes.rd.xml" uri="ms-resource://CheckoutService/Files/DataTypes/Properties/DataTypes.rd.xml">
+						<Candidate type="Path">
+							<Value>DataTypes\Properties\DataTypes.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

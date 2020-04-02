@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\AuditService\AuditService.csproj;x86
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\CheckoutService\CheckoutService.csproj;x86
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\DataTypes\DataTypes.csproj;x86
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\DataTypes\DataTypes.csproj;x86
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\DataTypes\DataTypes.csproj;x86
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\DataTypes\DataTypes.csproj;x86
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\Delegates\Delegates.csproj;x86
+C:\Users\Admin\Desktop\ISTA322\Labs\Delegates - Complete\DeliveryService\DeliveryService.csproj;x86
